@@ -1,0 +1,15 @@
+/Users/yuliya/Desktop/GIT/Examples2/Method3/bin/Debug/net7.0/Method3
+/Users/yuliya/Desktop/GIT/Examples2/Method3/bin/Debug/net7.0/Method3.deps.json
+/Users/yuliya/Desktop/GIT/Examples2/Method3/bin/Debug/net7.0/Method3.runtimeconfig.json
+/Users/yuliya/Desktop/GIT/Examples2/Method3/bin/Debug/net7.0/Method3.dll
+/Users/yuliya/Desktop/GIT/Examples2/Method3/bin/Debug/net7.0/Method3.pdb
+/Users/yuliya/Desktop/GIT/Examples2/Method3/obj/Debug/net7.0/Method3.csproj.AssemblyReference.cache
+/Users/yuliya/Desktop/GIT/Examples2/Method3/obj/Debug/net7.0/Method3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuliya/Desktop/GIT/Examples2/Method3/obj/Debug/net7.0/Method3.AssemblyInfoInputs.cache
+/Users/yuliya/Desktop/GIT/Examples2/Method3/obj/Debug/net7.0/Method3.AssemblyInfo.cs
+/Users/yuliya/Desktop/GIT/Examples2/Method3/obj/Debug/net7.0/Method3.csproj.CoreCompileInputs.cache
+/Users/yuliya/Desktop/GIT/Examples2/Method3/obj/Debug/net7.0/Method3.dll
+/Users/yuliya/Desktop/GIT/Examples2/Method3/obj/Debug/net7.0/refint/Method3.dll
+/Users/yuliya/Desktop/GIT/Examples2/Method3/obj/Debug/net7.0/Method3.pdb
+/Users/yuliya/Desktop/GIT/Examples2/Method3/obj/Debug/net7.0/Method3.genruntimeconfig.cache
+/Users/yuliya/Desktop/GIT/Examples2/Method3/obj/Debug/net7.0/ref/Method3.dll
