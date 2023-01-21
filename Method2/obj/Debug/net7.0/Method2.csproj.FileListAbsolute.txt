@@ -1,0 +1,15 @@
+/Users/yuliya/Desktop/GIT/Examples2/Method2/obj/Debug/net7.0/Method2.csproj.AssemblyReference.cache
+/Users/yuliya/Desktop/GIT/Examples2/Method2/obj/Debug/net7.0/Method2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuliya/Desktop/GIT/Examples2/Method2/obj/Debug/net7.0/Method2.AssemblyInfoInputs.cache
+/Users/yuliya/Desktop/GIT/Examples2/Method2/obj/Debug/net7.0/Method2.AssemblyInfo.cs
+/Users/yuliya/Desktop/GIT/Examples2/Method2/obj/Debug/net7.0/Method2.csproj.CoreCompileInputs.cache
+/Users/yuliya/Desktop/GIT/Examples2/Method2/bin/Debug/net7.0/Method2
+/Users/yuliya/Desktop/GIT/Examples2/Method2/bin/Debug/net7.0/Method2.deps.json
+/Users/yuliya/Desktop/GIT/Examples2/Method2/bin/Debug/net7.0/Method2.runtimeconfig.json
+/Users/yuliya/Desktop/GIT/Examples2/Method2/bin/Debug/net7.0/Method2.dll
+/Users/yuliya/Desktop/GIT/Examples2/Method2/bin/Debug/net7.0/Method2.pdb
+/Users/yuliya/Desktop/GIT/Examples2/Method2/obj/Debug/net7.0/Method2.dll
+/Users/yuliya/Desktop/GIT/Examples2/Method2/obj/Debug/net7.0/refint/Method2.dll
+/Users/yuliya/Desktop/GIT/Examples2/Method2/obj/Debug/net7.0/Method2.pdb
+/Users/yuliya/Desktop/GIT/Examples2/Method2/obj/Debug/net7.0/Method2.genruntimeconfig.cache
+/Users/yuliya/Desktop/GIT/Examples2/Method2/obj/Debug/net7.0/ref/Method2.dll
