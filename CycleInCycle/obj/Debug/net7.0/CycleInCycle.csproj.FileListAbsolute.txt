@@ -1,0 +1,15 @@
+/Users/yuliya/Desktop/GIT/Examples2/CycleInCycle/bin/Debug/net7.0/CycleInCycle
+/Users/yuliya/Desktop/GIT/Examples2/CycleInCycle/bin/Debug/net7.0/CycleInCycle.deps.json
+/Users/yuliya/Desktop/GIT/Examples2/CycleInCycle/bin/Debug/net7.0/CycleInCycle.runtimeconfig.json
+/Users/yuliya/Desktop/GIT/Examples2/CycleInCycle/bin/Debug/net7.0/CycleInCycle.dll
+/Users/yuliya/Desktop/GIT/Examples2/CycleInCycle/bin/Debug/net7.0/CycleInCycle.pdb
+/Users/yuliya/Desktop/GIT/Examples2/CycleInCycle/obj/Debug/net7.0/CycleInCycle.csproj.AssemblyReference.cache
+/Users/yuliya/Desktop/GIT/Examples2/CycleInCycle/obj/Debug/net7.0/CycleInCycle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuliya/Desktop/GIT/Examples2/CycleInCycle/obj/Debug/net7.0/CycleInCycle.AssemblyInfoInputs.cache
+/Users/yuliya/Desktop/GIT/Examples2/CycleInCycle/obj/Debug/net7.0/CycleInCycle.AssemblyInfo.cs
+/Users/yuliya/Desktop/GIT/Examples2/CycleInCycle/obj/Debug/net7.0/CycleInCycle.csproj.CoreCompileInputs.cache
+/Users/yuliya/Desktop/GIT/Examples2/CycleInCycle/obj/Debug/net7.0/CycleInCycle.dll
+/Users/yuliya/Desktop/GIT/Examples2/CycleInCycle/obj/Debug/net7.0/refint/CycleInCycle.dll
+/Users/yuliya/Desktop/GIT/Examples2/CycleInCycle/obj/Debug/net7.0/CycleInCycle.pdb
+/Users/yuliya/Desktop/GIT/Examples2/CycleInCycle/obj/Debug/net7.0/CycleInCycle.genruntimeconfig.cache
+/Users/yuliya/Desktop/GIT/Examples2/CycleInCycle/obj/Debug/net7.0/ref/CycleInCycle.dll
